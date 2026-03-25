@@ -23,7 +23,7 @@ The core AI architecture, neural network weights (`.weights.h5`), and diagnostic
 > To run this project locally, follow these steps:
 
 1. **Clone the Repository / Clonar o Repositório:**
-git clone https://github.com/Cyber-ViPs/Med_AI.git
+git clone https://github.com/Cyber-ViPs/Smart-Pulmonary-Diagnosis
 cd Med_AI
 
 2. **Create a Virtual Environment**
