@@ -3,7 +3,7 @@
 
 ---
 
-## 🌎 English Version <a name="english"></a>
+## 🌎 <a name="english"></a>
 
 ### 🎓 Academic Background & Intellectual Property
 The core AI architecture, neural network weights (`.weights.h5`), and diagnostic methodology were originally developed as part of a patented research project at **[University Name]**. 
