@@ -19,6 +19,49 @@ The core AI architecture, neural network weights (`.weights.h5`), and diagnostic
 ### 🔧 Tech Stack
 `Python` | `TensorFlow/Keras` | `Tkinter` | `Arduino/C++` | `ReportLab` | `SMTPlib`
 
+### How to Run
+> To run this project locally, follow these steps:
+
+1. **Clone the Repository / Clonar o Repositório:**
+git clone https://github.com/Cyber-ViPs/Med_AI.git
+cd Med_AI
+
+2. **Create a Virtual Environment**
+python -m venv .venv
+source .venv/Scripts/activate  # Windows: .\.venv\Scripts\activate
+
+3. **Install Dependencies**
+pip install -r requirements.txt
+
+4. **Project Structure**
+Ensure your folders are organized as follows (The system will validate this on startup):
+
+       models/my_trained_model.weights.h5
+
+       data/training, data/test, data/production
+
+       assets/ (Icons and GIFs)
+
+5. **Execute the Application**
+python main.py
+
+**Environment Setup**
+**Email Integration Setup:**
+To use the automated reporting feature, you must set up your Gmail "App Password". For security reasons, credentials are not hardcoded. Please set the following environment variables or update the start_send_email method with your own credentials:
+
+    MED_AI_EMAIL: Your gmail address.
+
+    MED_AI_PASSWORD: Your 16-digit Google App Password.
+
+
+**Note on Model Accuracy:** 
+The included my_trained_model.weights.h5 file is provided for demonstration purposes only, with a recorded accuracy of 86%. For production-grade precision, users are encouraged to use the provided AI.ipynb notebook to retrain the model on a larger dataset using local hardware or Google Colab.
+
+Credits
+
+    - (Cyber-ViPs)
+    
+
 ---
 
 ## 🇧🇷 Versão em Português <a name="portugues"></a>
