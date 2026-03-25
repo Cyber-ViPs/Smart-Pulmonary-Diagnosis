@@ -1,4 +1,4 @@
-# 🩻 Med_AI - Intelligent Pulmonary Diagnostic System
+# 🩻 Med AI - Intelligent Pulmonary Diagnostic System
 > **AI-Powered X-Ray Analysis with Real-Time Hardware Feedback & Automated Telemedicine Workflow.**
 
 ---
