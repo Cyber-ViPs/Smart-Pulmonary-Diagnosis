@@ -45,6 +45,8 @@ Ensure your folders are organized as follows (The system will validate this on s
 5.📥 Download Model Weights: Due to GitHub's file size limitations, the pre-trained weights are hosted externally. Please download the my_trained_model.weights.h5 file from the link below and place it inside the models/ folder before running the application: https://drive.google.com/drive/folders/1Y7dCnpdKpDZJUnXr88myRxrK-O4Oa5FK?usp=drive_link
 
 
+
+
 6. **Execute the Application**
 python main.py
 
