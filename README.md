@@ -6,7 +6,7 @@
 ## 🌎 <a name="english"></a>
 
 ### 🎓 Academic Background & Intellectual Property
-The core AI architecture, neural network weights (`.weights.h5`), and diagnostic methodology were originally developed as part of a patented research project at **[University Estacio]**. 
+The core AI architecture, neural network weights (`.weights.h5`), and diagnostic methodology were originally developed as part of a patented research project at **[University]**. 
 **My Contribution:** I designed and implemented the entire end-to-end software ecosystem, including the Desktop GUI, multi-threaded processing, automated medical reporting, and IoT hardware integration via Serial communication.
 
 ### 🛠️ Technical Key Features
@@ -42,7 +42,10 @@ Ensure your folders are organized as follows (The system will validate this on s
 
        assets/ (Icons and GIFs)
 
-5. **Execute the Application**
+5.📥 Download Model Weights: Due to GitHub's file size limitations, the pre-trained weights are hosted externally. Please download the my_trained_model.weights.h5 file from the link below and place it inside the models/ folder before running the application: https://drive.google.com/drive/folders/1Y7dCnpdKpDZJUnXr88myRxrK-O4Oa5FK?usp=drive_link
+
+
+6. **Execute the Application**
 python main.py
 
 **Environment Setup**
