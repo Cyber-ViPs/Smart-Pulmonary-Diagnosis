@@ -2,7 +2,7 @@
 > **AI-Powered X-Ray Analysis with Real-Time Hardware Feedback & Automated Telemedicine Workflow.**
 [![Watch The Demonstrations here!](https://github.com/user-attachments/assets/e2358a46-4179-4c2f-ba5d-f2bfc6812ea4)](https://youtu.be/8CNbM9W770s )
 
-> **Clique na imagem acima** para ver o sistema processando o exame e acionando o hardware em tempo real.
+> **Click on the image above to see the system processing the exam and activating the hardware in real time..
 
 
 
