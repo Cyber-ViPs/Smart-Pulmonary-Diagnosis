@@ -13,7 +13,7 @@
 ## 🌎 <a name="english"></a>
 
 ### 🎓 Academic Background & Intellectual Property
-The core AI architecture, neural network weights (`.weights.h5`), and diagnostic methodology were originally developed as part of a patented research project at **[University]**. 
+The core AI architecture, neural network weights (`.weights.h5`), and diagnostic methodology were originally developed as part of a patented research project at **[University]**. under registration number **BR512024001377-6.**
 **My Contribution:** I designed and implemented the entire end-to-end software ecosystem, including the Desktop GUI, multi-threaded processing, automated medical reporting, and IoT hardware integration via Serial communication.
 
 ### 🛠️ Technical Key Features
