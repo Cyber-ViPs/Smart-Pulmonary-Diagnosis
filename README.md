@@ -1,7 +1,11 @@
 # 🩻 Med AI - Intelligent Pulmonary Diagnostic System
 > **AI-Powered X-Ray Analysis with Real-Time Hardware Feedback & Automated Telemedicine Workflow.**
-<img width="1920" height="950" alt="Health_med_ai" src="https://github.com/user-attachments/assets/00734242-843d-44f7-ba50-288c9f82327f" />
-<img width="1920" height="943" alt="sick_MED_AI" src="https://github.com/user-attachments/assets/c11a3a8d-fb8f-46a3-8699-c4d43316fe71" />
+[![Watch The Demonstrations here!](https://github.com/user-attachments/assets/e2358a46-4179-4c2f-ba5d-f2bfc6812ea4)]([https://www.youtube.com/watch?v=8CNbM9W770s](https://youtu.be/8CNbM9W770s))
+
+> **Clique na imagem acima** para ver o sistema processando o exame e acionando o hardware em tempo real.
+
+
+
 ---
 
 
