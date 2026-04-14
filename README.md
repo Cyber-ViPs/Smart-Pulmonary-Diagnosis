@@ -71,7 +71,7 @@ The included my_trained_model.weights.h5 file is provided for demonstration purp
 
 Credits
 
-    - (Cyber-ViPs)
+    - (Cyber-ViPs, Emanuel)
     
 
 ---
